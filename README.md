@@ -5,9 +5,9 @@
 
 ## 工具清单
 
-| 进度条 ProgressBar | [使用文档](./src/docs/ProgressBar.md) |
+| 工具               | 文档                                  |
 | ------------------ | ------------------------------------- |
-|                    |                                       |
+| 进度条 ProgressBar | [使用文档](./src/docs/ProgressBar.md) |
 |                    |                                       |
 |                    |                                       |
 
